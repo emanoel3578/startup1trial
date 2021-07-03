@@ -1,5 +1,5 @@
 {
-  "name": "three-demo",
+  "name": "3dportfoliojs",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
@@ -7,9 +7,9 @@
     "serve": "vite preview"
   },
   "devDependencies": {
-    "vite": "^2.3.0"
+    "vite": "^2.3.7"
   },
   "dependencies": {
-    "three": "^0.128.0"
+    "three": "^0.129.0"
   }
 }
