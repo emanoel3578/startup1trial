@@ -42,6 +42,10 @@ canvas {
   left: 0;
 }
 
+#leftid {
+  grid-column: 7 / 12;
+}
+
 
 
   header {
@@ -49,7 +53,7 @@ canvas {
     grid-column: 2 / span 5;
     font-size: 2rem;
     padding: 2rem;
-    margin-bottom: 3rem;
+    margin-bottom: 5rem;
   }
 
   section {
@@ -77,5 +81,5 @@ canvas {
   }
 
   .left {
-    grid-column: 6 / 12;
+    grid-column: 2 / 12;
   }
